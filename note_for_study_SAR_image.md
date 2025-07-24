@@ -21,3 +21,6 @@ subject: image formation, reconstruction theory about SAR
 ### 전체 처리 흐름  
 Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin 보정) ▶ Azimuth Compression (matched filter / FFT) ▶ Inverse FFT → SAR image
 - 이 과정에서 각 단계마다 정확한 수학적 수식과 필터링 함수(ex. azimuth chirp, range chirp 등)가 필요합니다.
+
+---
+## Reference
