@@ -24,3 +24,9 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 
 ---
 ## Reference
+> 1. https://radar-plus-ai.tistory.com/m/entry/%EC%A0%90%ED%91%9C%EC%A0%81-Range-Doppler-Algorithm-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98 
+> 2. https://kr.mathworks.com/help/radar/ug/ers-sar-raw-data-extraction-and-image-formation.html 
+> 3. https://dsp.stackexchange.com/questions/86153/azimuth-image-extent-in-frequency-domain-sar-algorithms-rda-omega-k
+> 4. https://seda.hi-iberia.es/en/radar/sar-image-processing/
+> 5. https://foss4g.tistory.com/1961
+> 6. 
