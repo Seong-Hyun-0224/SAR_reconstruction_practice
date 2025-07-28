@@ -11,6 +11,7 @@ subject: image formation, reconstruction theory about SAR
 > 2. Range Cell Migration Correction (RCMC)
 >       - 비행체 움직임 혹은 대상의 궤적 때문에 대상의 반사 신호가 여러 range-bin에 걸쳐 굴곡(hyperbolic curve)을 이루며 퍼집니다.
 >       - 이를 보정해 "range line"이 직선이 되도록 정렬하는 단계입니다.
+>       - 위성이 지구 궤도를 따라 움직이면서 생기는 거리의 불일치성을 aligned시킨다고 이해하시면 됩니다.
 > 3. Azimuth Compression
 >       - 정렬된 데이터(azimuth 방향 퍼짐)에 matched filtering 또는 FFT를 통해 압축을 적용하여 cross-range 초점을 수행합니다.
 >       - 대표적으로 Range-Doppler Algorithm (RDA), Chirp Scaling Algorithm (CSA), Back-projection 등의 방법이 사용됩니다.
