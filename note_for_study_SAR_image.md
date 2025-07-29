@@ -31,3 +31,7 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 > 4. https://seda.hi-iberia.es/en/radar/sar-image-processing/
 > 5. https://foss4g.tistory.com/1961
 > 6. 
+
+## example result
+- range compression about single point target
+![alt text](image.png)
