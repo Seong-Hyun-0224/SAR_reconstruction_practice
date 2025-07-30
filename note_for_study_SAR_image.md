@@ -30,7 +30,7 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 > 3. https://dsp.stackexchange.com/questions/86153/azimuth-image-extent-in-frequency-domain-sar-algorithms-rda-omega-k
 > 4. https://seda.hi-iberia.es/en/radar/sar-image-processing/
 > 5. https://foss4g.tistory.com/1961
-> 6. 
+> 6. 3D SAR simulator: 
 
 ## example result
 - range compression about single point target
