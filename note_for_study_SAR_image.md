@@ -33,6 +33,7 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 > 6. 3D SAR simulator: 
 
 ## example result
-- range compression about single point target
-![alt text](image.png)
-![alt text](image-1.png)
+- range compression about single point target  
+![alt text](image.png)  
+![alt text](image-2.png)  
+![  ](image-3.png)
