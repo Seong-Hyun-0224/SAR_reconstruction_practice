@@ -24,6 +24,11 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 - 이 과정에서 각 단계마다 정확한 수학적 수식과 필터링 함수(ex. azimuth chirp, range chirp 등)가 필요합니다.
 
 ---
+## 2. SAR signal?
+1. SAR signal은 무엇인가? SAR raw data는 어떻게 구성되는가?
+- SAR signal: 
+
+---
 ## Reference
 > 1. https://radar-plus-ai.tistory.com/m/entry/%EC%A0%90%ED%91%9C%EC%A0%81-Range-Doppler-Algorithm-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98 
 > 2. https://kr.mathworks.com/help/radar/ug/ers-sar-raw-data-extraction-and-image-formation.html 
