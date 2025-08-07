@@ -28,6 +28,12 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 1. SAR signal은 무엇인가? SAR raw data는 어떻게 구성되는가?
 - SAR signal: 
 
+
+---
+## 3. SAR simulators
+1. 3D: 
+
+2. 2D: 
 ---
 ## Reference
 > 1. https://radar-plus-ai.tistory.com/m/entry/%EC%A0%90%ED%91%9C%EC%A0%81-Range-Doppler-Algorithm-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98 
