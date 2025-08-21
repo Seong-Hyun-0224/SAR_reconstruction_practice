@@ -27,7 +27,8 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 ## 2. SAR signal?
 1. SAR signal은 무엇인가? SAR raw data는 어떻게 구성되는가?
 - SAR signal: LFM vs FMCW
-
+- LFM: 
+- FMCW: 
 
 ---
 ## 3. SAR simulators
