@@ -34,7 +34,7 @@ Raw Data ▶ Range Compression (matched filtering) ▶ RCMC (곡선형 range bin
 ## 3. SAR simulators
 1. 3D: 3dsarsim
 
-2. 2D: 
+2. 2D: LFM, FMCW Matlab function
 
 ---
 ## 4. MatLab SAR related toolbox
